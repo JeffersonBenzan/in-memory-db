@@ -1,1 +1,7 @@
-# in-memory-db
+# In Memory Database
+
+
+## Start
+```sh
+npm start
+```
